@@ -7,6 +7,8 @@
 
 💡 Data-driven insights can help us better understand and combat this global challenge.
 
-🔗 Check out my project here: [https://lnkd.in/dBYwVa9J]
+🔗 Check out my project here: [https://lnkd.in/dBYwVa9J
 
-hashtag#COVID19Analysis hashtag#DataVisualization hashtag#DataScience hashtag#PandemicInsights hashtag#HealthData 🧬💻📉
+#COVID19Analysis #DataVisualization
+#DataScience #PandemicInsights 
+#HealthData 🧬💻📉
